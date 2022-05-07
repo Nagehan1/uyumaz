@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
+.c-site-header {
+  color:gold;
+  font-size:20px;
+  font-weight:700;
+}
+
+.c-site-footer {
+  color:green;
+  font-size:20px;
+  font-weight:700;
+}
